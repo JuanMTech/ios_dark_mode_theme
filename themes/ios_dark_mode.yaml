@@ -76,3 +76,5 @@ iOS Dark Mode:
   mdc-theme-surface: var(--secondary-background-color)
   # Pre/Code
   markdown-code-background-color: rgb(58, 58, 60)
+  # Checkboxes
+  mdc-checkbox-unchecked-color: rgb(174, 174, 178)
