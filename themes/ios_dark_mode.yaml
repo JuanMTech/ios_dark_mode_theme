@@ -58,7 +58,7 @@ iOS Dark Mode:
   paper-card-background-color: var(--card-background-color)
   # Switches
   switch-checked-button-color: rgb(242, 242, 247)
-  switch-checked-track-color:  rgb(48, 209, 88)
+  switch-checked-track-color: rgb(48, 209, 88)
   switch-unchecked-button-color: rgb(242, 242, 247)
   switch-unchecked-track-color: rgb(99, 99, 102)
   # Toggles
